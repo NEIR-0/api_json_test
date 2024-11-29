@@ -1,5 +1,5 @@
 {
-  "message": "Add new data",
-  "content": "BASE64_ENCODED_JSON",
-  "sha": "FILE_SHA"
+  "role": "buyer",
+  "user": "user_buyer",
+  "key": ["a", "a", "a", "a"]
 }
