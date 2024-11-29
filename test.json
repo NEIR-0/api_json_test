@@ -1,5 +1,1 @@
-{
-  "role": "buyer",
-  "user": "user_buyer",
-  "key": ["a", "a", "a", "a"]
-}
+{"role":"seller","user":"user_seller","key":["b","b","b","b"]}
